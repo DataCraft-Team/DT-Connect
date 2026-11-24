@@ -13,19 +13,19 @@
 
 <p align="center"><b>اپ رسمی دیتاکرفت</b> برای ویندوز، اندروید، مک و لینوکس<br>با لینک اشتراک و نام کاربری‌تان وارد شوید و با یک لمس به سریع‌ترین سرور وصل شوید.</p>
 
-## ⬇️ دانلود — نسخه‌ی 1.1.3
+## ⬇️ دانلود — نسخه‌ی 1.1.4
 
 | سیستم | دانلود | برای چه کسی |
 | --- | --- | --- |
-| 🪟 **ویندوز ۱۰ و ۱۱** (۶۴ بیتی) | [**DT-Connect-Setup.exe**](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-Setup-1.1.3.exe) | همه‌ی کامپیوترهای ویندوزی |
-| 🤖 **اندروید ۵ به بالا** | [**arm64-v8a**](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-android-arm64-v8a.apk) | بیشتر گوشی‌های این چند سال |
-| | [**universal**](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-android-universal.apk) | اگر نمی‌دانید کدام را بگیرید (روی همه نصب می‌شود) |
-| | [armeabi-v7a](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-android-armeabi-v7a.apk) | گوشی‌های خیلی قدیمی |
-| 🍎 **مک** با تراشه‌ی Apple (M1 و جدیدتر) | [**mac-arm64.pkg**](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-mac-arm64.pkg) | macOS 12 به بالا |
-| 🍎 **مک** اینتل | [mac-x64.pkg](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-mac-x64.pkg) | macOS 12 به بالا |
-| 🐧 **اوبونتو، دبیان، مینت، Pop!_OS** | [amd64.deb](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-linux-amd64.deb) · [arm64.deb](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-linux-arm64.deb) | |
-| 🐧 **فدورا، RHEL، Rocky، AlmaLinux، openSUSE** | [x86_64.rpm](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-linux-x86_64.rpm) · [aarch64.rpm](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-linux-aarch64.rpm) | |
-| 🐧 **آرچ، مانجارو، EndeavourOS** | [x64.pacman](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-linux-x64.pacman) · [aarch64.pacman](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-linux-aarch64.pacman) | |
+| 🪟 **ویندوز ۱۰ و ۱۱** (۶۴ بیتی) | [**DT-Connect-Setup.exe**](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-Setup-1.1.4.exe) | همه‌ی کامپیوترهای ویندوزی |
+| 🤖 **اندروید ۵ به بالا** | [**arm64-v8a**](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-android-arm64-v8a.apk) | بیشتر گوشی‌های این چند سال |
+| | [**universal**](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-android-universal.apk) | اگر نمی‌دانید کدام را بگیرید (روی همه نصب می‌شود) |
+| | [armeabi-v7a](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-android-armeabi-v7a.apk) | گوشی‌های خیلی قدیمی |
+| 🍎 **مک** با تراشه‌ی Apple (M1 و جدیدتر) | [**mac-arm64.pkg**](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-mac-arm64.pkg) | macOS 12 به بالا |
+| 🍎 **مک** اینتل | [mac-x64.pkg](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-mac-x64.pkg) | macOS 12 به بالا |
+| 🐧 **اوبونتو، دبیان، مینت، Pop!_OS** | [amd64.deb](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-linux-amd64.deb) · [arm64.deb](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-linux-arm64.deb) | |
+| 🐧 **فدورا، RHEL، Rocky، AlmaLinux، openSUSE** | [x86_64.rpm](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-linux-x86_64.rpm) · [aarch64.rpm](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-linux-aarch64.rpm) | |
+| 🐧 **آرچ، مانجارو، EndeavourOS** | [x64.pacman](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-linux-x64.pacman) · [aarch64.pacman](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-linux-aarch64.pacman) | |
 | 📱 **آیفون و آیپد** | — | فعلاً نسخه‌ی iOS نداریم: لینک اشتراک را در **Streisand** یا **Happ** وارد کنید. |
 
 <details>
@@ -33,8 +33,8 @@
 
 | فایل | برای |
 | --- | --- |
-| [x86_64](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-android-x86_64.apk) | شبیه‌سازهای اندروید روی کامپیوتر و چند تبلت با پردازنده‌ی اینتل |
-| [x86](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-android-x86.apk) | شبیه‌سازهای قدیمی |
+| [x86_64](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-android-x86_64.apk) | شبیه‌سازهای اندروید روی کامپیوتر و چند تبلت با پردازنده‌ی اینتل |
+| [x86](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-android-x86.apk) | شبیه‌سازهای قدیمی |
 
 </details>
 
@@ -56,11 +56,11 @@
 
 ```bash
 # Ubuntu / Debian / Mint
-sudo apt install ./DT-Connect-1.1.3-linux-amd64.deb
+sudo apt install ./DT-Connect-1.1.4-linux-amd64.deb
 # Fedora / RHEL   (openSUSE: sudo zypper install ...)
-sudo dnf install ./DT-Connect-1.1.3-linux-x86_64.rpm
+sudo dnf install ./DT-Connect-1.1.4-linux-x86_64.rpm
 # Arch / Manjaro
-sudo pacman -U ./DT-Connect-1.1.3-linux-x64.pacman
+sudo pacman -U ./DT-Connect-1.1.4-linux-x64.pacman
 # macOS, OpenVPN only
 brew install openvpn
 ```
@@ -95,21 +95,21 @@ brew install openvpn
 ## 🛡 دانلود امن
 
 - فقط از **همین صفحه** یا لینکی که ربات می‌فرستد دانلود کنید. فایلی که کسی در گروه یا کانال دیگری فرستاده ممکن است دستکاری شده باشد.
-- کنار هر نسخه فایل [SHA256SUMS.txt](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/SHA256SUMS.txt) هست. عددی که دستور زیر برای فایل شما می‌دهد باید با عدد همان فایل در SHA256SUMS.txt یکی باشد.
+- کنار هر نسخه فایل [SHA256SUMS.txt](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/SHA256SUMS.txt) هست. عددی که دستور زیر برای فایل شما می‌دهد باید با عدد همان فایل در SHA256SUMS.txt یکی باشد.
 - آدرس هیچ سروری داخل خود اپ نیست: سرورها، پروتکل‌ها و اطلاعیه‌ها فقط با لینک اشتراک خودتان می‌آیند.
 
 </div>
 
 ```powershell
 # Windows (PowerShell)
-Get-FileHash .\DT-Connect-Setup-1.1.3.exe -Algorithm SHA256
+Get-FileHash .\DT-Connect-Setup-1.1.4.exe -Algorithm SHA256
 ```
 
 ```bash
 # Linux
-sha256sum DT-Connect-1.1.3-linux-amd64.deb
+sha256sum DT-Connect-1.1.4-linux-amd64.deb
 # macOS
-shasum -a 256 DT-Connect-1.1.3-mac-arm64.pkg
+shasum -a 256 DT-Connect-1.1.4-mac-arm64.pkg
 ```
 
 <div dir="rtl">
@@ -132,14 +132,14 @@ DT Connect is DataCraft's VPN app. Sign in with your subscription link and usern
 
 | System | Download |
 | --- | --- |
-| Windows 10 / 11 (64-bit) | [DT-Connect-Setup-1.1.3.exe](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-Setup-1.1.3.exe) |
-| Android 5.0+ | [arm64-v8a](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-android-arm64-v8a.apk) (most phones) · [universal](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-android-universal.apk) (any) · [armeabi-v7a](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-android-armeabi-v7a.apk) (older phones) |
-| macOS 12+ | [Apple silicon](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-mac-arm64.pkg) · [Intel](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-mac-x64.pkg) |
-| Debian / Ubuntu | [amd64](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-linux-amd64.deb) · [arm64](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-linux-arm64.deb) |
-| Fedora / RHEL / openSUSE | [x86_64](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-linux-x86_64.rpm) · [aarch64](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-linux-aarch64.rpm) |
-| Arch / Manjaro | [x64](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-linux-x64.pacman) · [aarch64](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/DT-Connect-1.1.3-linux-aarch64.pacman) |
+| Windows 10 / 11 (64-bit) | [DT-Connect-Setup-1.1.4.exe](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-Setup-1.1.4.exe) |
+| Android 5.0+ | [arm64-v8a](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-android-arm64-v8a.apk) (most phones) · [universal](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-android-universal.apk) (any) · [armeabi-v7a](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-android-armeabi-v7a.apk) (older phones) |
+| macOS 12+ | [Apple silicon](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-mac-arm64.pkg) · [Intel](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-mac-x64.pkg) |
+| Debian / Ubuntu | [amd64](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-linux-amd64.deb) · [arm64](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-linux-arm64.deb) |
+| Fedora / RHEL / openSUSE | [x86_64](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-linux-x86_64.rpm) · [aarch64](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-linux-aarch64.rpm) |
+| Arch / Manjaro | [x64](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-linux-x64.pacman) · [aarch64](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/DT-Connect-1.1.4-linux-aarch64.pacman) |
 | iPhone / iPad | Not available: use your subscription link in Streisand or Happ. |
 
-Checksums: [SHA256SUMS.txt](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.3/SHA256SUMS.txt) · Older versions: [Releases](https://github.com/DataCraft-Team/DT-Connect/releases) · Open-source components: [THIRD-PARTY.md](THIRD-PARTY.md)
+Checksums: [SHA256SUMS.txt](https://github.com/DataCraft-Team/DT-Connect/releases/download/v1.1.4/SHA256SUMS.txt) · Older versions: [Releases](https://github.com/DataCraft-Team/DT-Connect/releases) · Open-source components: [THIRD-PARTY.md](THIRD-PARTY.md)
 
 <p align="center"><sub>© DataCraft</sub></p>
